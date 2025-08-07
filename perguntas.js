@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Artistas',
+    'Qual é o nome verdadeiro da Lady Gaga?',
+    'Stefani Joanne Angelina Germanotta'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Biologia',
+    'Qual a molécula responsavél por carregar o código genético?',
+    'É o DNA'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Esportes',
+    'Qual país venceu a Copa do Mundo de 2018?',
+    'França'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Automóveis',
+    'Qual a função do catalisador em um automóvel?',
+    'Reduzir a emissão de gases poluentes'
 )
